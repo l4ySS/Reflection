@@ -1,2 +1,6 @@
-package org.example.reflection;public class SomeOtherInterface {
+package org.example.reflection;
+
+public interface SomeOtherInterface {
+    public void doSome();
+
 }
